@@ -1,4 +1,4 @@
-package com.divide2.licenses.model;
+package com.divide2.licensing.model;
 
 import java.io.Serializable;
 

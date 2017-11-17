@@ -1,8 +1,8 @@
-package com.divide2.licenses.event.handlers;
+package com.divide2.licensing.event.handlers;
 
-import com.divide2.licenses.event.CustomChannels;
-import com.divide2.licenses.event.models.OrganizationChangeModel;
-import com.divide2.licenses.repository.OrganizationRedisRepository;
+import com.divide2.licensing.event.CustomChannels;
+import com.divide2.licensing.event.models.OrganizationChangeModel;
+import com.divide2.licensing.repository.OrganizationRedisRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

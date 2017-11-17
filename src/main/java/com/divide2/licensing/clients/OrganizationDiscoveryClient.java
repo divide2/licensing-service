@@ -1,7 +1,7 @@
-package com.divide2.licenses.clients;
+package com.divide2.licensing.clients;
 
 
-import com.divide2.licenses.model.Organization;
+import com.divide2.licensing.model.Organization;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;

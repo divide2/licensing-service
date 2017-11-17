@@ -1,6 +1,6 @@
-package com.divide2.licenses.clients;
+package com.divide2.licensing.clients;
 
-import com.divide2.licenses.model.Organization;
+import com.divide2.licensing.model.Organization;
 import org.springframework.cloud.netflix.feign.FeignClient;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

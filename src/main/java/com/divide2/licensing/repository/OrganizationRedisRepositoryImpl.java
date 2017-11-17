@@ -1,6 +1,6 @@
-package com.divide2.licenses.repository;
+package com.divide2.licensing.repository;
 
-import com.divide2.licenses.model.Organization;
+import com.divide2.licensing.model.Organization;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.HashOperations;
 import org.springframework.data.redis.core.RedisTemplate;

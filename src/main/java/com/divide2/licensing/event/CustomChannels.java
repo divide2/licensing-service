@@ -1,4 +1,4 @@
-package com.divide2.licenses.event;
+package com.divide2.licensing.event;
 
 import org.springframework.cloud.stream.annotation.Input;
 import org.springframework.messaging.SubscribableChannel;

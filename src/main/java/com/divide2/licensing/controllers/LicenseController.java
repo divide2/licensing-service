@@ -1,11 +1,9 @@
-package com.divide2.licenses.controllers;
+package com.divide2.licensing.controllers;
 
-import com.divide2.licenses.config.ServiceConfig;
-import com.divide2.licenses.model.License;
-import com.divide2.licenses.services.LicenseService;
+import com.divide2.licensing.model.License;
+import com.divide2.licensing.services.LicenseService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.http.HttpStatus;

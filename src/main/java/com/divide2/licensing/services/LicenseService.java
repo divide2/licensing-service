@@ -1,13 +1,12 @@
-package com.divide2.licenses.services;
+package com.divide2.licensing.services;
 
-import com.divide2.licenses.clients.OrganizationDiscoveryClient;
-import com.divide2.licenses.clients.OrganizationFeignClient;
-import com.divide2.licenses.clients.OrganizationRestTemplateClient;
-import com.divide2.licenses.config.ServiceConfig;
-import com.divide2.licenses.model.License;
-import com.divide2.licenses.model.Organization;
-import com.divide2.licenses.repository.LicenseRepository;
-import com.netflix.hystrix.contrib.javanica.annotation.DefaultProperties;
+import com.divide2.licensing.clients.OrganizationDiscoveryClient;
+import com.divide2.licensing.clients.OrganizationFeignClient;
+import com.divide2.licensing.clients.OrganizationRestTemplateClient;
+import com.divide2.licensing.config.ServiceConfig;
+import com.divide2.licensing.model.License;
+import com.divide2.licensing.model.Organization;
+import com.divide2.licensing.repository.LicenseRepository;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 import org.springframework.beans.factory.annotation.Autowired;

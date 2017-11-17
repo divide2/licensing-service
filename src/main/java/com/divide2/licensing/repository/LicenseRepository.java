@@ -1,6 +1,6 @@
-package com.divide2.licenses.repository;
+package com.divide2.licensing.repository;
 
-import com.divide2.licenses.model.License;
+import com.divide2.licensing.model.License;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

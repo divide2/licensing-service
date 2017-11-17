@@ -1,6 +1,6 @@
-package com.divide2.licenses.controllers;
+package com.divide2.licensing.controllers;
 
-import com.divide2.licenses.services.DiscoveryService;
+import com.divide2.licensing.services.DiscoveryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

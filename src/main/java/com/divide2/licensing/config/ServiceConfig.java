@@ -1,4 +1,4 @@
-package com.divide2.licenses.config;
+package com.divide2.licensing.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

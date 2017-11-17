@@ -1,4 +1,4 @@
-package com.divide2.licenses.security;
+package com.divide2.licensing.security;
 
 import org.springframework.http.HttpMethod;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

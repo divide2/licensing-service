@@ -1,4 +1,4 @@
-package com.divide2.licenses.services;
+package com.divide2.licensing.services;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

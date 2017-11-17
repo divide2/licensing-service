@@ -1,4 +1,4 @@
-package com.divide2.licenses.event.models;
+package com.divide2.licensing.event.models;
 
 public class OrganizationChangeModel {
     private String type;
